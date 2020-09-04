@@ -202,6 +202,17 @@
       </tags>
   </entry>
   <entry>
+    <title>encrypt</title>
+    <url>/posts/8df660ab/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="您好, 这里需要密码." /><label>您好, 这里需要密码.</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="51f4f790409786291d7f16525ce9b263699e93fd72bb8ca437c2f51b474d00d2">1ddf35772e7e00db221c17bd085067528cefbd0d5e4fcfd39db84891157ec9ba</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>encrypt</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo butterfly主题魔改记录</title>
     <url>/posts/bb9a879a/</url>
     <content><![CDATA[<h1 id="参考文章"><a class="markdownIt-Anchor" href="#参考文章"></a> 参考文章</h1>
@@ -320,17 +331,6 @@
         <tag>hexo</tag>
         <tag>butterfly</tag>
         <tag>魔改</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>encrypt</title>
-    <url>/posts/8df660ab/</url>
-    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="您好, 这里需要密码." /><label>您好, 这里需要密码.</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="51f4f790409786291d7f16525ce9b263699e93fd72bb8ca437c2f51b474d00d2">1ddf35772e7e00db221c17bd085067528cefbd0d5e4fcfd39db84891157ec9ba</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>encrypt</tag>
       </tags>
   </entry>
   <entry>
@@ -995,13 +995,13 @@ tag 标签格式</dd>
 <p>简单示例</p>
 <figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">&#123;% meting &quot;60198&quot; &quot;netease&quot; &quot;playlist&quot; %&#125;</span><br></pre></td></tr></table></figure>
 
-    <div id="aplayer-LXuyahnf" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-YEirOqeB" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="60198" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 <p>进阶示例</p>
 <figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">&#123;% meting &quot;60198&quot; &quot;netease&quot; &quot;playlist&quot; &quot;autoplay&quot; &quot;mutex:false&quot; &quot;listmaxheight:340px&quot; &quot;preload:none&quot; &quot;theme:#ad7a86&quot;%&#125;</span><br></pre></td></tr></table></figure>
 
-    <div id="aplayer-MIMmvXhJ" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-PpnAzugU" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="60198" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>
 <h4 id="audio"><a class="markdownIt-Anchor" href="#audio"></a> Audio</h4>
