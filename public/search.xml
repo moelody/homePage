@@ -995,13 +995,13 @@ tag 标签格式</dd>
 <p>简单示例</p>
 <figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">&#123;% meting &quot;60198&quot; &quot;netease&quot; &quot;playlist&quot; %&#125;</span><br></pre></td></tr></table></figure>
 
-    <div id="aplayer-WftiRpdK" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-ugziQgNv" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="60198" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 <p>进阶示例</p>
 <figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">&#123;% meting &quot;60198&quot; &quot;netease&quot; &quot;playlist&quot; &quot;autoplay&quot; &quot;mutex:false&quot; &quot;listmaxheight:340px&quot; &quot;preload:none&quot; &quot;theme:#ad7a86&quot;%&#125;</span><br></pre></td></tr></table></figure>
 
-    <div id="aplayer-IanpUEcs" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-KNcxTVyN" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="60198" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>
 <h4 id="audio"><a class="markdownIt-Anchor" href="#audio"></a> Audio</h4>
